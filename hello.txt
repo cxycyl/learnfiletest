@@ -1,5 +1,5 @@
 hello git1 version2 hot-fix
 hello git2
 hello git3
-hello git4
+hello git4 master merge-test2
 hello git5 hot-fix merge-test
